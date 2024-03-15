@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(70, 45, 7);
+    color: white ;
+}
+a:visited{
+    color: antiquewhite;
+}
+
+a:hover{
+    color: aqua;
+}
+
+li{
+    color: red;
+}
