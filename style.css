@@ -1,15 +1,25 @@
 body{
     background-color: rgb(70, 45, 7);
-    color: white ;
+    color: khaki ;
 }
 a:visited{
     color: antiquewhite;
 }
-
-a:hover{
-    color: aqua;
+a{
+    color: aqua
 }
-
+a:hover{
+    color: hotpink
+}
+.recipes{
+    background-color: blue;
+}
 li{
     color: red;
+}
+/* .header{
+    color: bisque;
+} */
+.test{
+    color: darkgreen;
 }
